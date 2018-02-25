@@ -30,6 +30,10 @@ This is the code and learning notes about <a href="https://mooc.study.163.com/co
 
 2⃣️ <a href="https://lovesnowbest.site/2018/02/23/Machine-Learning-Strategy-2/">Machine Learning Strategy(2)</a>  
 
+### Course 4 Convolutional Neural Networks  
+
+1⃣️ assignment 1 <a href="https://lovesnowbest.site/2018/02/24/Intro-to-Convolutional-Neural-Networks/">Intro to Convolutional Neural Networks</a>
+
 ## Problems and Advice  
 
 All suggestions and corrections are highly welcomed. I'd appreciated if you can help me build this repository better. Questions about this lesson will be answered promptly if you open an issue here (only if I can).  
