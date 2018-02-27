@@ -34,6 +34,11 @@ This is the code and learning notes about <a href="https://mooc.study.163.com/co
 
 1⃣️ assignment 1 <a href="https://lovesnowbest.site/2018/02/24/Intro-to-Convolutional-Neural-Networks/">Intro to Convolutional Neural Networks</a>
 
+2⃣️ assignment 2 <a href="https://lovesnowbest.site/2018/02/26/Deep-Convolutional-Neural-Networks/">Deep Convolutional Neural Networks
+</a>
+
+3⃣️ assignment 3 <a href="https://lovesnowbest.site/2018/02/27/Intro-to-Object-Detection/">Intro to Object Detection</a>  
+
 ## Problems and Advice  
 
 All suggestions and corrections are highly welcomed. I'd appreciated if you can help me build this repository better. Questions about this lesson will be answered promptly if you open an issue here (only if I can).  
