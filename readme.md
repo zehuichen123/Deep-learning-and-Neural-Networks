@@ -39,6 +39,8 @@ This is the code and learning notes about <a href="https://mooc.study.163.com/co
 
 3⃣️ assignment 3 <a href="https://lovesnowbest.site/2018/02/27/Intro-to-Object-Detection/">Intro to Object Detection</a>  
 
+4⃣️ assignment 4,5 <a href="https://lovesnowbest.site/2018/03/07/Face-Recognition-and-Neural-Style-Transfer/">Face Recognition for the Happy House &<br>Deep Learning & Art: Neural Style Transfer</a>
+
 ## Problems and Advice  
 
 All suggestions and corrections are highly welcomed. I'd appreciated if you can help me build this repository better. Questions about this lesson will be answered promptly if you open an issue here (only if I can).  
